@@ -1,0 +1,14 @@
+form,viewer,show,segment,score
+F1,V1,S1,reveal,5
+F2,V2,S2,reveal,7
+F3,V3,S1,reveal,4
+F4,V4,S2,reveal,6
+F5,V5,S1,arrival,5
+F11,V11,S1,reveal,6
+F12,V12,S2,reveal,3
+F13,V13,S1,reveal,4
+F16,V16,S2,reveal,3
+F17,V17,S1,reveal,4
+F18,V18,S2,reveal,5
+F19,V19,S1,reveal,6
+F22,V22,S2,reveal,5

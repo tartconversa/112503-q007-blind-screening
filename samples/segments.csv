@@ -1,0 +1,7 @@
+edition,segment,previous,from_sec,to_sec,rev
+A,arrival,,0,480,r1
+A,reveal,arrival,480,1210,r1
+B,arrival,,0,400,r1
+B,reveal,arrival,400,1040,r1
+C,arrival,,0,410,r2
+C,reveal,arrival,410,1010,r2

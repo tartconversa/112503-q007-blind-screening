@@ -1,0 +1,7 @@
+viewer,can_attend,stratum,screened,requires_access
+V1,S3,new,A,no
+V6,S3|S5,new,B,no
+V7,S4,frequent,,no
+V8,S3|S4,new,,yes
+V9,S4|S5,frequent,,no
+V10,S3,frequent,,no
